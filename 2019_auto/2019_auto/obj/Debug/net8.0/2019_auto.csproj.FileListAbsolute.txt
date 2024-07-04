@@ -1,0 +1,14 @@
+G:\Áron\egyetem\szakgyak\Új mappa\2019eretsegiClaude\2019_auto\2019_auto\bin\Debug\net8.0\2019_auto.exe
+G:\Áron\egyetem\szakgyak\Új mappa\2019eretsegiClaude\2019_auto\2019_auto\bin\Debug\net8.0\2019_auto.deps.json
+G:\Áron\egyetem\szakgyak\Új mappa\2019eretsegiClaude\2019_auto\2019_auto\bin\Debug\net8.0\2019_auto.runtimeconfig.json
+G:\Áron\egyetem\szakgyak\Új mappa\2019eretsegiClaude\2019_auto\2019_auto\bin\Debug\net8.0\2019_auto.dll
+G:\Áron\egyetem\szakgyak\Új mappa\2019eretsegiClaude\2019_auto\2019_auto\bin\Debug\net8.0\2019_auto.pdb
+G:\Áron\egyetem\szakgyak\Új mappa\2019eretsegiClaude\2019_auto\2019_auto\obj\Debug\net8.0\2019_auto.GeneratedMSBuildEditorConfig.editorconfig
+G:\Áron\egyetem\szakgyak\Új mappa\2019eretsegiClaude\2019_auto\2019_auto\obj\Debug\net8.0\2019_auto.AssemblyInfoInputs.cache
+G:\Áron\egyetem\szakgyak\Új mappa\2019eretsegiClaude\2019_auto\2019_auto\obj\Debug\net8.0\2019_auto.AssemblyInfo.cs
+G:\Áron\egyetem\szakgyak\Új mappa\2019eretsegiClaude\2019_auto\2019_auto\obj\Debug\net8.0\2019_auto.csproj.CoreCompileInputs.cache
+G:\Áron\egyetem\szakgyak\Új mappa\2019eretsegiClaude\2019_auto\2019_auto\obj\Debug\net8.0\2019_auto.dll
+G:\Áron\egyetem\szakgyak\Új mappa\2019eretsegiClaude\2019_auto\2019_auto\obj\Debug\net8.0\refint\2019_auto.dll
+G:\Áron\egyetem\szakgyak\Új mappa\2019eretsegiClaude\2019_auto\2019_auto\obj\Debug\net8.0\2019_auto.pdb
+G:\Áron\egyetem\szakgyak\Új mappa\2019eretsegiClaude\2019_auto\2019_auto\obj\Debug\net8.0\2019_auto.genruntimeconfig.cache
+G:\Áron\egyetem\szakgyak\Új mappa\2019eretsegiClaude\2019_auto\2019_auto\obj\Debug\net8.0\ref\2019_auto.dll
